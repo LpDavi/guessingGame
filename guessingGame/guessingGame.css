@@ -14,7 +14,7 @@ body {
     font-size: 1.6rem;
 
     display: grid;
-    place-items: center;
+    place-items: center; /*abreviação para as propriedades align-items e align-items, combinando-as em uma única declaração.*/
     height: 100vh;
 
 }
